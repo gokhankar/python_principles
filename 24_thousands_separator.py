@@ -1,4 +1,4 @@
-"https://pythonprinciples.com/challenges/Thousands-separator/"
+﻿"https://pythonprinciples.com/challenges/Thousands-separator/"
 
 
 """
@@ -19,3 +19,6 @@ Mesela;
 format_number(1000000)
 "1,000,000" döner.
 """
+
+
+#ben burayı notepad de ekledim
